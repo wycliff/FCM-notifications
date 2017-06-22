@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "626029137702",
+    "firebase_url": "https://fcmdater.firebaseio.com",
+    "project_id": "fcmdater",
+    "storage_bucket": "fcmdater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626029137702:android:8860a399f318daa7",
+        "android_client_info": {
+          "package_name": "wycliffe.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626029137702-ek7mumqeird5jpqmfdmugn75i41tam66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAey1H8QvVeg2AvGXSvCUy1zs6rRDUHO5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
